@@ -18,14 +18,14 @@
   </a>
 </div>
 
-- 🔭 Desenvolvedor Front-end na empresa [Devex Soluções](https://github.com/dvx-solutions)
-- 🌱 Estou estudando: NodeJS e Ruby on Rails
-- 💬 Pergunte-me sobre: Desenvolvimento web ...
-- ⚡ Fun fact: Não confio em dev Java (brincadeira)
+<div align="center">
+<p>- 🔭 Desenvolvedor Front-end na empresa [Devex Soluções](https://github.com/dvx-solutions)</p>
+<p>- 🌱 Estou estudando: NodeJS e Ruby on Rails</p>
+<p>- 💬 Pergunte-me sobre: Desenvolvimento web ...</p>
+<p>- ⚡ Fun fact: Não confio em dev Java (brincadeira)</p>
+</div>
 
-  <img alt="Programador" width="180rem" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp">
-
-<div> 
+<div align="center"> 
 <a href = "mailto:cristianosql02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

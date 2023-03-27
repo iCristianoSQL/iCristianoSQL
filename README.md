@@ -20,7 +20,6 @@
 </div>
 <hr/>
 
-- 🔭 Desenvolvedor Front-end na empresa [Devex Soluções](https://github.com/dvx-solutions)
 - 🌱 Estou estudando: Node e Ruby on Rails
 - 💬 Pergunte-me sobre: Desenvolvimento web ...
 - ⚡ Fun fact: Não confio em dev Java (brincadeira)
